@@ -56,7 +56,7 @@ O projeto foi pensado para ser **versátil, organizado e fácil de manter**, per
 │   ├── 📁 commands
 │   ├── 📁 events
 │   ├── 📁 configs
-│   ├── 📁 utils
+│   ├── 📁 handlers
 │   └── index.js
 ├── 📄 config.json
 ├── 📄 package.json
