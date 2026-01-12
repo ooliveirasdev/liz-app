@@ -57,7 +57,7 @@ O projeto foi pensado para ser **versátil, organizado e fácil de manter**, per
 │   ├── 📁 events
 │   ├── 📁 configs
 │   ├── 📁 handlers
+│   ├── 📁 forms
 │   └── index.js
-├── 📄 config.json
 ├── 📄 package.json
 └── 📄 README.md
